@@ -5,11 +5,10 @@ A fully functional Educational Management System built on the ServiceNow Platfor
 🔗 Click to View on Google Drive
 
 👥 Team Members
-C Mani Chandrika – ServiceNow Developer
-A Chaithanya – UI/UX & Form Designer
-S M Chaithra – Client Scripts & Table Developer
-M Gangothri – Testing & Documentation
-S Ankitha – Demo & Deployment
+N.sujitha– ServiceNow Developer
+Ch.AnuSri Harshini – UI/UX & Form Designer
+P.Navaneeth – Client Scripts & Table Developer
+Swarup – Testing & Documentation
 📌 Overview
 🎯 Purpose
 To digitize and streamline educational workflows using ServiceNow’s low-code platform — enabling faster data handling, reduced manual work, and improved accessibility.
@@ -21,6 +20,9 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 → Auto Total, Percentage, Result
 🔄 Status Flow (New → InProgress → Joined/Rejected)
 🧩 Modular Design for Admins & Teachers
+
+
+
 🛠️ Tech Stack
 Layer	Technology
 Platform	ServiceNow (Personal Dev Instance)
@@ -28,6 +30,9 @@ UI	Form-based Modules
 Logic	Client Scripts, UI Policies
 Database	ServiceNow Tables
 Deployment	Cloud-based via ServiceNow PDI
+
+
+
 ⚙️ How to Run the Project
 Sign up at developer.servicenow.com and create a Personal Developer Instance (PDI)
 Navigate to → System Update Sets > Retrieved Update Sets
@@ -43,10 +48,17 @@ Student Progress Form	📈 Marks + Result Logic
 Admission Workflow	🔄 Status-based Process Flow
 ℹ️ Add screenshots in your repo assets/ folder and reference them using ![Alt Text](assets/screen1.png)
 
+
+
+
 🔐 Authentication
 Role-based access within ServiceNow
 Currently Admin-level (for demo)
 Can be extended to Teacher/Parent roles
+
+
+
+
 ✅ Testing
 ✔️ Manual validation of:
 Client Scripts
