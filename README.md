@@ -4,8 +4,7 @@ A fully functional Educational Management System built on the ServiceNow Platfor
 📺 Watch Demo:
 🔗 Click to View on Google Drive
 
-👥 Team Members
-N.sujitha– ServiceNow Developer
+👥 Team Members N.sujitha– ServiceNow Developer
 Ch.AnuSri Harshini – UI/UX & Form Designer
 P.Navaneeth – Client Scripts & Table Developer
 Swarup – Testing & Documentation
