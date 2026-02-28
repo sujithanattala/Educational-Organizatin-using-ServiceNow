@@ -1,49 +1,70 @@
 # Educational-Organizatin-using-ServiceNow
 A fully functional Educational Management System built on the ServiceNow Platform (PDI) to simplify and automate admissions, academic progress tracking, and student record management — with zero-code customization.
-🎬 Demo
-📺 Watch Demo:
-🔗 Click to View on Google Drive
 
 👥 Team Members 
 
 N.sujitha– ServiceNow Developer
 
 Ch.AnuSri Harshini – UI/UX & Form Designer
+
 P.Navaneeth – Client Scripts & Table Developer
+
 Swarup – Testing & Documentation
+
 📌 Overview
 🎯 Purpose
+
 To digitize and streamline educational workflows using ServiceNow’s low-code platform — enabling faster data handling, reduced manual work, and improved accessibility.
 
 ✨ Key Features
+
 🔢 Auto-generated Admission Number
+
 📍 Auto-fill Address using PIN Code
+
 📊 Student Progress Form with
+
 → Auto Total, Percentage, Result
+
 🔄 Status Flow (New → InProgress → Joined/Rejected)
+
 🧩 Modular Design for Admins & Teachers
 
 
 
 🛠️ Tech Stack
 Layer	Technology
+
 Platform	ServiceNow (Personal Dev Instance)
+
 UI	Form-based Modules
+
 Logic	Client Scripts, UI Policies
+
 Database	ServiceNow Tables
+
 Deployment	Cloud-based via ServiceNow PDI
 
 
 
 ⚙️ How to Run the Project
+
 Sign up at developer.servicenow.com and create a Personal Developer Instance (PDI)
+
 Navigate to → System Update Sets > Retrieved Update Sets
+
 Import the Update Set from the /UpdateSets/ folder
+
 Commit the set
+
 Explore modules:
+
 Admissions
+
 Student Progress
+
 🖼️ UI Snapshots
+
 Feature	Screenshot Placeholder
 Admission Form	🧾 Student info + Auto-ID
 Student Progress Form	📈 Marks + Result Logic
